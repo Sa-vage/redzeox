@@ -33,12 +33,14 @@
 <a><img src="./Assets/Img/Rainbow.gif" width="100%">
 
 <details open>
-<summary>🎐 ᴅᴇᴘʟᴏʏ ᴀᴛʟᴀꜱ-ᴍᴅ ɪɴ ᴀɴʏ ᴘʟᴀᴛғᴏʀᴍ 🎐</summary>
+<summary>🎐 ᴅᴇᴘʟᴏʏ ʀɪᴀꜱ-ɢʀᴇᴍᴏʀʏ ɪɴ ᴀɴʏ ᴘʟᴀᴛғᴏʀᴍ 🎐</summary>
 
 <h1 align="center"> 
 <a href="https://railway.app/new/template/7jrGER?referralCode=fYRZyi">
 <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="150px">
-</div>
+</a>
+</p>
+</h4>
 
 <h2 align="center"> 
 <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/fantox001/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
