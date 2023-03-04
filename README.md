@@ -56,7 +56,7 @@
 
 </details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src="./Assets/Img/Rainbow.gif" width="100%">
 
 <h4 align="center">🎀 ᴋᴇʏ ғᴇᴀᴛᴜʀᴇꜱ 🎀
 </h2>
@@ -127,3 +127,4 @@
 <br>
 
 <h2 align="center">🕯️✨ʀᴇᴅᴢᴇᴏꭗ✨🕯️
+<a><img src="./Assets/Img/Rainbow.gif" width="100%">
