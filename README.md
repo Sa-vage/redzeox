@@ -29,7 +29,7 @@
   </a>
   <br>
    
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src="./Assets/Img/Rainbow.gif" width="100%">
 
 <details open>
 <summary>🎐 ᴅᴇᴘʟᴏʏ ᴀᴛʟᴀꜱ-ᴍᴅ ɪɴ ᴀɴʏ ᴘʟᴀᴛғᴏʀᴍ 🎐</summary>
