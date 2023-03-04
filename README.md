@@ -33,7 +33,7 @@
 <a><img src="./Assets/Img/Rainbow.gif" width="100%">
 
 <details open>
-<summary>🎐 ᴅᴇᴘʟᴏʏ ʀɪᴀꜱ-ɢʀᴇᴍᴏʀʏ ɪɴ ᴀɴʏ ᴘʟᴀᴛғᴏʀᴍ 🎐</summary>
+<summary>🎐 ᴅᴇᴘʟᴏʏ ʀɪᴀꜱ-ɢʀᴇᴍᴏʀʏ `( ᴀɴʏ ᴘʟᴀᴛғᴏʀᴍ )` 🎐</summary>
 
 <h1 align="center"> 
 <a href="https://railway.app/new/template/7jrGER?referralCode=fYRZyi">
