@@ -31,7 +31,7 @@ module.exports = {
             let xyz = xy.concat(yz);
 
             ment = [ownerList.map(owner => owner+"@s.whatsapp.net"), mention];
-            let textM = `             🧣  *$ᴍᴏᴅꜱ*  🧣\n\n`;
+            let textM = `             🧣  *ᴍᴏᴅꜱ*  🧣\n\n`;
 
             if(ownerList.length == 0){
               textM = "*ɴᴏ ᴍᴏᴅꜱ ᴀᴅᴅᴇᴅ !*";
