@@ -34,7 +34,7 @@ Image Source: https://wallpapercave.com/
 
 global.charID0 = {
     botName : "Rias",
-    botVideo : fs.readFileSync("./Assets/atlas.mp4"),
+    botVideo : fs.readFileSync("./Assets/Rias Gremory.mp4"),
     botImage1 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
     botImage2 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
     botImage3 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
