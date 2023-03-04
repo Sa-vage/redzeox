@@ -1,6 +1,6 @@
 <h1 align="center"> 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ 〙
 
-</h1>
+</div>
 
 <p align="center">
 <a href="https://github.com/REDZEOX/Rias-Gremory">
