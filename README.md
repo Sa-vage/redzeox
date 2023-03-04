@@ -127,5 +127,6 @@
 <br>
 
 <h2 align="center">🕯️✨ʀᴇᴅᴢᴇᴏꭗ✨🕯️
+
 <a><img src="./Assets/Img/Gradients.png" width="100%">
 <a><img src="./Assets/Img/Rainbow.gif" width="100%">
