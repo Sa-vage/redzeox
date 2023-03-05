@@ -1,4 +1,4 @@
-<h1 align="center"> 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ 〙
+<p align="center"> 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ 〙
 
 </div>
 
