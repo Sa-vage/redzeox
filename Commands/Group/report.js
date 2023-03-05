@@ -7,7 +7,7 @@ module.exports = {
     cool:3600,
     category: "Group",
     usage: `report <describe issue>`,
-    react: "🍁",
+    react: "🎐",
     start: async (
       Miku,
       m,
