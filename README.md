@@ -23,12 +23,9 @@
   <a href="https://github.com/REDZEOX/Rias-Gremory/stargazers">
     <img src="https://img.shields.io/github/stars/REDZEOX/Rias-Gremory?style=social">
   </a>
-
-<br>
-
-<a href="https://github.com/REDZEOX/Rias-Gremory">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/REDZEOX/Rias-Gremory.visitor-badge&left_text=Total%20People%20Visited">
-  </a>
+<div align="center">
+<a href="http://wa.me/919529426293" target="blank"><img src="https://img.shields.io/badge/GC link-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="25px"/></a>
+<a href="http://wa.me/919529426293" target="blank"><img src="https://img.shields.io/badge/RedzeoX - Owner-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="25px"/></a>  </a>
   <br>
    
 <a><img src="./Assets/Img/Rainbow.gif" width="100%">
