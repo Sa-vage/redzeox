@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/REDZEOX/Rias-Gremory">
-    <a href="https://github.com/REDZEOX"><img src="https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg" alt="Rias-Gremory" border="0"></a>
+    <a href="https://github.com/REDZEOX"><img src="https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg" alt="Rias-Gremory" width="2050"/>
 </h3>
 
 <p align="center"> 
