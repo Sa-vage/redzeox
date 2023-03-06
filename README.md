@@ -1,12 +1,12 @@
-https://user-images.githubusercontent.com/118795823/223159934-5a2a5717-d7b7-4e64-9aed-67e7807353dc.mp4
 
-<h1 align="center"> 🎐 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ 〙 🎐
+
+<h1 align="center"> ✨ 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ 〙 ✨
 
 </div>
 
 <p align="center">
 <a href="https://github.com/REDZEOX/Rias-Gremory">
-    <a href="https://github.com/REDZEOX"><img src="" alt="" width="2050"/>
+    <a href="https://github.com/REDZEOX"><img src="https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg" alt="Rias Gremory" width="2050"/>
 </h3>
 
 <p align="center"> 
