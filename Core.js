@@ -397,7 +397,15 @@ module.exports = async (Miku, m, commands, chatUpdate, store) => {
 
         const flags = args.filter((arg) => arg.startsWith("--"));
         if (body.startsWith(prefix) && !icmd) {
-            let mikutext = `*ᴏᴏᴘꜱ ɴᴏ ꜱᴜᴄʜ ᴄᴏᴍᴍᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍᴇᴅ ꜱᴇɴᴘᴀɪ! ʕ•̫͡•ʔ*`;
+            let mikutext = `┌─❖ *𖠌*
+│ *「 ʜᴇʟʟᴏ sᴇɴᴘɪᴇ 」*
+└┬❖ 「 ᴏᴏᴘꜱ ɴᴏ ᴄᴏᴍᴍᴀɴᴅ 」
+┌┤「 ᴅᴇᴠᴏᴛᴇ ʏᴏᴜʀ ʟɪғᴇ ᴛᴏ ᴍᴇ 」
+││✑ ✨😍🎐!!
+│└───────────────┈ ⳹
+└┬─────────┈ ⳹
+   │ *ʏᴏᴜ ᴄᴀʟʟᴇᴅ ᴍᴇ, ᴅɪᴅɴ'ᴛ ʏᴏᴜ ?*
+   └───────────────┈ ⳹`;
 
             let Button = [{
                 buttonId: `${prefix}help`,
