@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/REDZEOX/Rias-Gremory">
-    <a href="https://github.com/REDZEOX"><img src="https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg" alt="Rias Gremory" width="2050"/>
+    <a href="https://github.com/REDZEOX"><img src="https://media1.tenor.com/images/aa3560eeb67340a6dd670f810cd3f79a/tenor.gif?itemid=27664841" alt="Rias Gremory" width="2050"/>
 </h3>
 
 <p align="center"> 
@@ -93,7 +93,7 @@
 - ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ ᴄᴏᴍᴇs ᴡɪᴛʜ [ᴍɪᴛ](ʜᴛᴛᴘꜱ://ɢɪᴛʜᴜʙ.ᴄᴏᴍ/ʀᴇᴅᴢᴇᴏꭗ/ʀɪᴀꜱ-ɢʀᴇᴍᴏʀʏ/ʙʟᴏʙ/ᴍᴀɪɴ/ʟɪᴄᴇɴꜱᴇ.ᴍᴅ) ʟɪᴄᴇɴꜱᴇ ᴡʜɪᴄʜ ᴍᴇᴀɴꜱ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ɪᴛ ᴀꜱ ᴀ `ʙᴀꜱᴇ ғᴏʀ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ` ᴀɴᴅ ᴄᴀɴ `ᴍᴏᴅɪғʏ ɪᴛ ᴀꜱ ʏᴏᴜ ᴡᴀɴᴛ` ᴀɴᴅ ᴄᴀɴ `ᴀᴅᴅ ʏᴏᴜʀ ᴏᴡɴ ғᴇᴀᴛᴜʀᴇꜱ`.
 
 
-<h2>✧ ᴘʀᴏᴊᴇᴄᴛ ᴅᴇᴘᴇɴᴅᴇɴᴄɪᴇꜱ :
+<h2>✧ ᴘʀᴏᴊᴇᴄᴛ ᴅᴇᴘᴇɴᴅᴇɴᴄɪᴇꜱ ✧
 </h2>
 
 - [ʙᴀɪʟᴇʏꜱ ʟɪʙʀᴀʀʏ](https://github.com/adiwajshing/Baileys)
