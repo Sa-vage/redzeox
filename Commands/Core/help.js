@@ -2,7 +2,7 @@ module.exports = {
   name: "help",
   alias: ["menu", "h", "helpm", "helpmenu"],
   desc: "Gives all bot commands list",
-  react: "🎯",
+  react: "💌",
   category: "Core",
   start: async (Miku, m, {prefix,pushName,NSFWstatus,args,commands,text}) => {
 
@@ -11,7 +11,7 @@ if (args[0]) {
             let name = args[0].toLowerCase()
             let cmd = commands.get(name) || Array.from(commands.values()).find((v) => v.alias.includes(name))
             if (!cmd || cmd.type == "hide") return m.reply("No Command Found")
-            else data.push(`🍁Command : ${cmd.name.replace(/^\w/, c => c.toUpperCase())}`)
+            else data.push(`📌Command : ${cmd.name.replace(/^\w/, c => c.toUpperCase())}`)
             if (cmd.alias) data.push(`👾Alias : ${cmd.alias.join(", ")}`) 
             if(cmd.cool) data.push(`⏱️Cooldown: ${cmd.cool}`)       
             if (cmd.desc) data.push(`🧾Description : ${cmd.desc}`)
@@ -27,11 +27,16 @@ if (args[0]) {
             return Miku.sendMessage(m.from,buth,{quoted:m})
         } else {
 
-let textHelpMenu = `ᴋᴏɴɴɪᴄʜɪᴡᴀ *${pushName}* ꜱᴇɴᴘᴀɪ,
-ɪ ᴀᴍ *${botName}*, ᴀ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ *ᴛᴇᴀᴍ ᴀᴛʟᴀꜱ*.
-🎀 ᴍʏ ᴘʀᴇғɪꭗ ɪꜱ: *${prefix}*
-ʜᴇʀᴇ'ꜱ ᴛʜᴇ ʟɪꜱᴛ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ.\n
-             
+let textHelpMenu = `┌─❖ *𖠌*
+│ *「 ᴋᴏɴɴɪᴄʜɪᴡᴀ ꜱᴇɴᴘᴀɪ 」*
+└┬❖ 「 *${botName}* 」
+┌┤✑ 「 ᴍʏ ᴘʀᴇғɪꭗ ɪꜱ: *${prefix}* 」
+││✑ ✨😋💌!!
+│└───────────────┈ ⳹
+└┬─────────┈ ⳹
+   │ *ʜᴇʀᴇ'ꜱ ᴛʜᴇ ʟɪꜱᴛ ᴏғ*
+   │ *ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ*
+   └───────────────┈ ⳹\n             
 ╭────ꕥ ᴄᴏʀᴇ ꕥ────╮
 ├
 ├・🎐 ʜɪ, ʜᴇʟᴘ, 
@@ -241,14 +246,19 @@ textHelpMenu += `╭────ꕥ ɴꜱғᴡ ꕥ────╮
 ├
 ╰──────────────────╯\n\n`
 }
-          
-textHelpMenu +=`*🕯️✨  ${botName}  ✨🕯️*
- _ᴘᴏᴡᴇʀᴇᴅ ʙʏ:_ *© ᴛᴇᴀᴍ ᴀᴛʟᴀꜱ*
-🎐 *ʀᴇ-ᴄᴏᴅᴇᴅ ʙʏ ꜱᴄᴏᴛᴄʜ*
-🎀 ᴛᴏ ᴜꜱᴇ ᴀɴʏ ᴏғ ᴛʜᴇꜱᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ᴛʏᴘᴇ  
-" *${prefix}ᴄᴏᴍᴍᴀɴᴅ ɴᴀᴍᴇ* ".
-🏮 ᴛᴏ ɢᴇᴛ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ ᴛʏᴘᴇ " *${prefix}ꜱᴜᴘᴘᴏʀᴛ* ".
-🧩 ᴛᴏ ʀᴇᴘᴏʀᴛ ᴀɴʏ ɪꜱꜱᴜᴇꜱ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴛʏᴘᴇ " *${prefix}ʀᴇᴘᴏʀᴛ 〘 ᴅᴇꜱᴄʀɪʙᴇ ɪꜱꜱᴜᴇ 〙* ".\n`
+textHelpMenu +=`┌─❖ 「 *ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ 💔* 」 *𖠌*
+└┬❖ 「 ${botName} 」
+│└───────────────┈ ⳹
+│ 「 *ʙᴏᴛ ɪɴғᴏ* 」
+│✙ _ᴘᴏᴡᴇʀᴇᴅ ʙʏ:_ *© ᴛᴇᴀᴍ ᴀᴛʟᴀꜱ*
+│✙ 🎐 *ʀᴇ-ᴄᴏᴅᴇᴅ ʙʏ ꜱᴄᴏᴛᴄʜ*
+│✙ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ
+│✙ 「 *${prefix}ꜱᴜᴘᴘᴏʀᴛ* 」
+│✙ ʀᴇᴘᴏʀᴛ ᴛᴏ *ᴅᴇᴠᴇʟᴏᴘᴇʀ*
+│✙ *${prefix}ʀᴇᴘᴏʀᴛ 〘 ᴅᴇꜱᴄʀɪʙᴇ ɪꜱꜱᴜᴇ 〙*
+│✙ 「 *✨😴🎐 ᴛʜᴀɴᴋ ʏᴏᴜ* 」
+└───────────────┈ ⳹
+   └──────────────┈ ⳹\n`
 
 let buttons = [
     {
