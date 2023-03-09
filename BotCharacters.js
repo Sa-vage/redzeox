@@ -33,14 +33,14 @@ Image Source: https://wallpapercave.com/
 
 
 global.charID0 = {
-    botName : "Akeno",
+    botName : "Akeno Himejima",
     botVideo : fs.readFileSync("./Assets/Rias Gremory.mp4"),
     botImage1 : "https://c4.wallpaperflare.com/wallpaper/591/606/378/anime-girls-highschool-dxd-himejima-akeno-wallpaper-preview.jpg",
     botImage2 : "https://c4.wallpaperflare.com/wallpaper/462/799/663/anime-high-school-dxd-akeno-himejima-asia-argento-high-school-dxd-wallpaper-preview.jpg",
     botImage3 : "https://c4.wallpaperflare.com/wallpaper/72/911/671/anime-high-school-dxd-akeno-himejima-hd-wallpaper-preview.jpg",
-    botImage4 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
-    botImage5 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
-    botImage6 : "https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg",
+    botImage4 : "https://wallpapercave.com/uwp/uwp3445161.png",
+    botImage5 : "https://wallpapercave.com/uwp/uwp3445162.png",
+    botImage6 : "https://wallpapercave.com/uwp/uwp3445163.png",
 }
 
 global.charID1 = {
