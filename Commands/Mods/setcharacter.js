@@ -12,7 +12,7 @@ module.exports = {
     desc: "Ban a member", 
     category: "core", 
     usage: "setchar 0/1/2/3/4/5/6/7", 
-    react: "🍑", 
+    react: "🫶", 
     start: async ( 
       Miku, 
       m, 
@@ -28,7 +28,7 @@ module.exports = {
 
 /* ---Added Anime Characters list---  /
 
- 0 --- Rias
+ 0 --- Akeno Himejima
  1 --- Power
  2 --- Makima
  3 --- Rias Gremory
@@ -51,9 +51,9 @@ module.exports = {
 
 */
 
-      let botNames = ['Rias', 'Power MD', 'Makima MD', 'Rias Gremory', 'Zero Two', 'Chika MD' , 'Miku MD', 'Marin MD','Ayanokoji MD','Ruka MD','Mizuhara MD','Rem MD','Sumi MD','Kaguya MD','Yumeko MD','Kurumi MD','Mai MD','Yor MD','Shinbou MD','Eiko MD']
+      let botNames = ['Akeno Himejima', 'Power MD', 'Makima MD', 'Rias Gremory', 'Zero Two', 'Chika MD' , 'Miku MD', 'Marin MD','Ayanokoji MD','Ruka MD','Mizuhara MD','Rem MD','Sumi MD','Kaguya MD','Yumeko MD','Kurumi MD','Mai MD','Yor MD','Shinbou MD','Eiko MD']
       let botLogos =[
-        'https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg',
+        'https://c4.wallpaperflare.com/wallpaper/591/606/378/anime-girls-highschool-dxd-himejima-akeno-wallpaper-preview.jpg',
         'https://wallpapercave.com/wp/wp11253614.jpg',
         'https://images5.alphacoders.com/126/1264439.jpg',
         'https://c4.wallpaperflare.com/wallpaper/280/659/612/highschool-dxd-gremory-rias-wallpaper-preview.jpg',
