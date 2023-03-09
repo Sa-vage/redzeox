@@ -4,7 +4,7 @@ const { mkchar } = require("./Database/dataschema.js");
 
 /* ---Added Anime Character list---  /
 
- 0 --- Akeno
+ 0 --- Akeno Himejima
  1 --- Power
  2 --- Makima
  3 --- Rias Gremory
